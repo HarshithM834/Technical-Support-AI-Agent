@@ -64,7 +64,3 @@ The system utilizes a specialized **TechSupportAgent** within a routing framewor
     ```bash
     python tech_support_examples.py
     ```
-
-## License
-
-MIT
